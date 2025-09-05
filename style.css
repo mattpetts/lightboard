@@ -8,7 +8,6 @@ body {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(10, auto);
     column-gap: 5px;
     row-gap: 5px;
 }
