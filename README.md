@@ -20,6 +20,7 @@ A cool little exercise in dom manipulation and OOP Javascript creating a customi
 - ✅ Customisable
 - 🚧 Drawing mode. Allow users to click on a tile to light it up and keep it in the lit up state allowing users to create pixel art
 - 🚧 customisable colour pallette
+- 🚧 make mobile responsive
 
 ---
 
